@@ -1,6 +1,6 @@
 # Molek-Cheatez
 
-![A picture of the score box for Chloroform with a solution titled "Cheating: Score Hack" solved with 69/1/1](https://github.com/gamma-delta/molek-cheatez/blob/master/pictures/molek-cheatez.png "A picture of the score box for Chloroform with a solution titled "Cheating: Score Hack" solved with 69/1/1")
+![A picture of the score box for Chloroform with a solution titled "Cheating: Score Hack" solved with 69/1/1](https://github.com/gamma-delta/molek-cheatez/blob/master/pictures/molek-cheatez.png "A picture of the score box for Chloroform with a solution titled \"Cheating: Score Hack\" solved with 69/1/1")
 
 I decided to try to reverse-engineer the Molek-Syntez solution file format, just to see if I could. I'd never reverse-engineered any proprietary formats like this before, so I figured it would be fun. Armed with a hexdumper and a C# decompiler, I went to work.
 

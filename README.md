@@ -6,7 +6,8 @@ I decided to try to reverse-engineer the Molek-Syntez solution file format, just
 
 This Go library is used to read and write Molek-Syntez's `.solution` files. Using it, you can:
 - Put precursors in puzzles you can't get them in
-- Make your scores display anything you like.
+- Make your scores display anything you like
+- Probably other things too
 
 Examples:
 ```go

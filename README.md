@@ -25,7 +25,7 @@ ioutil.WriteFile("amphetamine-2.solution", hackedBytes, 0644)
 //In real life you probably want to handle the errors properly.
 ```
 
-I also wrote a simple viewer and editor called [Submarine](https://github.com/gamma-delta/submarine).
+I also wrote a simple viewer and editor called [Submarine](https://github.com/gamma-delta/molek-cheatez/blob/master/pictures/molek-cheatez.png).
 
 [Reference.md](Reference.md) has the internal numbers used for the precursor IDs, puzzle IDs, and instruction IDs.
 
